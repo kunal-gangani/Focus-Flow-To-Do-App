@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754477407649",
+    "project_id": "pomodoro-todo-app-4b5c2",
+    "storage_bucket": "pomodoro-todo-app-4b5c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754477407649:android:3442ce328d958cc6fcffe0",
+        "android_client_info": {
+          "package_name": "com.example.pomodoro_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUomNa1H498Y0ufOqOc4a3nKrvhzBb9cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
